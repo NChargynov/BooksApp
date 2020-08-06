@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BooksApp</string>
+    <string name="книги">Список Книг</string>
+    <string name="описаниеКниги">Описание книги</string>
+</resources>
